@@ -8,7 +8,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student.
 
 *   🌍  I'm based in Rize Türkiye
 *   ✉️  You can contact me at [mrlslymn02@gmail.com](mailto:mrlslymn02@gmail.com)
-*   My Instagram @code.sm
+  
 
 
 ### Skills 
