@@ -20,7 +20,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student.
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymannmeral&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymannmeral&theme=tokyonight" alt="mystreak"/>
+
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=suleymannmeral&count_private=true&show_icons=true&hide=contribs)
