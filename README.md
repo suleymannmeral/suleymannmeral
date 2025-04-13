@@ -26,10 +26,13 @@ Hi . I'm Suleyman. I'm a Software Engineering student.
   <img src="https://github-readme-stats.vercel.app/api?username=suleymannmeral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mrlslymn02&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suleymannmeral/suleymannmeral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suleymannmeral/suleymannmeral/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suleymannmeral/suleymannmeral/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 ###
 
 
