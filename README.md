@@ -12,7 +12,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student.
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,postman,bootstrap,visualstudio,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,postman,bootstrap,unity)](https://skillicons.dev)
 
         
 ### Contacts                 
