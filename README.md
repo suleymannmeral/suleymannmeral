@@ -6,7 +6,7 @@ Software Engineer
 
 Hi . I'm Suleyman. I'm a Software Engineering student and .NET Developer.
 
-*   🌍  I'm based in Rize Türkiye
+
 *   ✉️  You can contact me at [mrlslymn02@gmail.com](mailto:mrlslymn02@gmail.com)
   
 
