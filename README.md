@@ -4,7 +4,7 @@ Hi 👋 My name is Süleyman Meral
 Software Engineer
 -----------------
 
-Hi . I'm Suleyman. I'm a Software Engineering student and Backend Developer.
+Hi . I'm Suleyman. I'm a Software Engineering student and .NET Core Developer
 
 
 *   ✉️  You can contact me at [mrlslymn02@gmail.com](mailto:mrlslymn02@gmail.com)
