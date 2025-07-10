@@ -12,7 +12,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student and .NET Core Developer
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,postman,bootstrap,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,postman,bootstrap,react,docker)](https://skillicons.dev)
 
         
 ### Contacts                 
