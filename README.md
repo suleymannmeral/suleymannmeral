@@ -10,7 +10,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student and Backend(.NET Core) Dev
 *   ✉️  You can contact me at [mrlslymn02@gmail.com](mailto:mrlslymn02@gmail.com)
 
 
-*   #✉️  Talk is Cheap. Show me the code.
+*   # ✉️  Talk is Cheap. Show me the code.
   
   
 
