@@ -30,7 +30,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student and Backend(.NET Core) Dev
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymannmeral&show_icons=true&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suleymannmeral&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suleymannmeral&theme=blue-green)](https://git.io/streak-stats)
 ###
 ###
 
