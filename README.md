@@ -10,7 +10,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student and Backend(.NET Core) Dev
 *   ✉️  You can contact me at [mrlslymn02@gmail.com](mailto:mrlslymn02@gmail.com)
 
 
-*   # 👨‍💻 Talk is Cheap. Show me the code. (Linus Torvalds)
+*   # 👨‍💻 Any fool can write code that a computer can understand. Good programmers write code that humans can understand.(Martin Fowler)
   
   
 
