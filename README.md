@@ -16,7 +16,7 @@ Hi . I'm Suleyman. I'm a Software Engineering student and Backend(.NET Core) Dev
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,visualstudio)](https://skillicons.dev)
 
         
 ### Contacts                 
