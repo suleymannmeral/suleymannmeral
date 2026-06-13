@@ -1,7 +1,7 @@
 Hi 👋 My name is Süleyman Meral
 ===============================
 
-Backend Developer(.NET Core) / Software Engineer / Instructor
+Software Engineer(Backend Based) / Instructor
 -----------------
 
 Hi . I'm Suleyman. I'm a Software Engineering student and Backend(.NET Core) Developer
