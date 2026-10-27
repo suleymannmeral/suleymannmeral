@@ -4,13 +4,12 @@ Hi 👋 My name is Süleyman Meral
 Software Engineer(Backend Based) / Instructor
 -----------------
 
-Hi . I'm Suleyman. I'm a Software Engineer and Backend(.NET Core) Developer
+Hi . I'm Suleyman. I'm a Software Engineer and master student of Software Engineering
 
 
 *   ✉️  You can contact me at [mrlslymn02@gmail.com](mailto:mrlslymn02@gmail.com)
 
 
-*   # 👨‍💻 Any fool can write code that a computer can understand. Good programmers write code that humans can understand.(Martin Fowler)
   
   
 
