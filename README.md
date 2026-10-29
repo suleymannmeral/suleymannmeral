@@ -15,7 +15,7 @@ Hi . I'm Suleyman. I'm a Software Engineer and master student of Software Engine
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,git,visualstudio)](https://skillicons.dev)
 
         
 ### Contacts                 
