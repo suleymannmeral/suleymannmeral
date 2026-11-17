@@ -15,7 +15,7 @@ Hi . I'm Suleyman. I'm a Software Engineer and master student of Software Engine
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,python,git,visualstudio)](https://skillicons.dev)
 
         
 ### Contacts                 
@@ -23,11 +23,8 @@ Hi . I'm Suleyman. I'm a Software Engineer and master student of Software Engine
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymannmeral&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymannmeral&show_icons=true&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suleymannmeral&theme=blue-green)](https://git.io/streak-stats)
 ###
