@@ -1,8 +1,7 @@
-Hi 👋 My name is Süleyman Meral
-===============================
+
 
 Software Engineer(Backend Based) / Instructor
------------------
+
 
 Hi . I'm Suleyman. I'm a Software Engineer and master student of Software Engineering
 
